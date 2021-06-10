@@ -12588,6 +12588,240 @@
 		"category": "Fruits",
 		"defname": "Rawwatermelon"
 	},
+	{
+		"abr": "alloyfusionmachine",
+		"price": 12817,
+		"category": "Production",
+		"defname": "AlloyFusionMachine_AA"
+	},
+	{
+		"abr": "antimatterblaster",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "AntimatterBlaster_AA"
+	},
+	{
+		"abr": "antimattercanister",
+		"price": 108,
+		"category": "Raw resources",
+		"defname": "AntimatterCanister_AA"
+	},
+	{
+		"abr": "antimattercomposite",
+		"price": 43,
+		"category": "Raw resources",
+		"defname": "AntimatterComposite_AA"
+	},
+	{
+		"abr": "antimattergrenadelauncher",
+		"price": 5150,
+		"category": "Ranged weapons",
+		"defname": "AntimatterGrenadeLauncher_AA"
+	},
+	{
+		"abr": "antimattergrenades",
+		"price": 583,
+		"category": "Grenades",
+		"defname": "AntimatterGrenades_AA"
+	},
+	{
+		"abr": "antimatterrifle",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "AntimatterRifle_AA"
+	},
+	{
+		"abr": "antimattersmg",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "AntimatterSMG_AA"
+	},
+	{
+		"abr": "antimattersniperrifle",
+		"price": 4750,
+		"category": "Ranged weapons",
+		"defname": "AntimatterSniperRifle_AA"
+	},
+	{
+		"abr": "compositerefiner",
+		"price": 1642,
+		"category": "Production",
+		"defname": "CompositeRefiner_AA"
+	},
+	{
+		"abr": "devastatorlmg",
+		"price": 6333,
+		"category": "Ranged weapons",
+		"defname": "DevastatorLMG_AA"
+	},
+	{
+		"abr": "devastatorsmartgun",
+		"price": 8667,
+		"category": "Ranged weapons",
+		"defname": "DevastatorSmartGun_AA"
+	},
+	{
+		"abr": "devastatorsniperrifle",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "DevastatorSniperRifle_AA"
+	},
+	{
+		"abr": "dice",
+		"price": 100,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_Dice"
+	},
+	{
+		"abr": "diceofbadomen",
+		"price": 1000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfBadOmen"
+	},
+	{
+		"abr": "diceofchaos",
+		"price": 1000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfChaos"
+	},
+	{
+		"abr": "diceofdespair",
+		"price": 3000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfDespair"
+	},
+	{
+		"abr": "diceoffortune",
+		"price": 2000,
+		"category": "Dices",
+		"defname": "DiceOfDestiny_DiceOfFortune"
+	},
+	{
+		"abr": "galvaknuckles",
+		"price": 1492,
+		"category": "Melee weapons",
+		"defname": "Galvaknuckles_AA"
+	},
+	{
+		"abr": "hyperalloy",
+		"price": 400,
+		"category": "Raw resources",
+		"defname": "HyperAlloy_AA"
+	},
+	{
+		"abr": "hypercomponent",
+		"price": 583,
+		"category": "Raw resources",
+		"defname": "HyperComponent_AA"
+	},
+	{
+		"abr": "karambit",
+		"price": 350,
+		"category": "Melee weapons",
+		"defname": "Karambit_AA"
+	},
+	{
+		"abr": "largecommonchest",
+		"price": 583,
+		"category": "Loot boxes",
+		"defname": "LootBoxSilverLarge"
+	},
+	{
+		"abr": "largegoldenchest",
+		"price": 1500,
+		"category": "Loot boxes",
+		"defname": "LootBoxGoldLarge"
+	},
+	{
+		"abr": "m3g_umin",
+		"price": 11883,
+		"category": "Security",
+		"defname": "Megumin_AA"
+	},
+	{
+		"abr": "mbd",
+		"price": 5567,
+		"category": "Security",
+		"defname": "Turret_MBD_AA"
+	},
+	{
+		"abr": "mysteriousredchest",
+		"price": 175,
+		"category": "Production",
+		"defname": "LootBoxBench"
+	},
+	{
+		"abr": "n²mine",
+		"price": 383,
+		"category": "Security",
+		"defname": "TrapIED_N2Mine_AA"
+	},
+	{
+		"abr": "pandorasbox",
+		"price": 667,
+		"category": "Loot boxes",
+		"defname": "LootBoxPandora"
+	},
+	{
+		"abr": "powernetconsole",
+		"price": 817,
+		"category": "Power",
+		"defname": "PowerNetConsole_AA"
+	},
+	{
+		"abr": "reactorinjector",
+		"price": 3525,
+		"category": "Misc",
+		"defname": "AntimatterReactorInjector_AA"
+	},
+	{
+		"abr": "reactorpowerconverter",
+		"price": 3792,
+		"category": "Power",
+		"defname": "AntimatterReactorPowerConverter_AA"
+	},
+	{
+		"abr": "resonatingblade",
+		"price": 4625,
+		"category": "Melee weapons",
+		"defname": "ResonatingBlade_AA"
+	},
+	{
+		"abr": "scissorblade",
+		"price": 3950,
+		"category": "Melee weapons",
+		"defname": "ScissorBlade_AA"
+	},
+	{
+		"abr": "secretsword",
+		"price": 3800,
+		"category": "Melee weapons",
+		"defname": "SecretSword_AA"
+	},
+	{
+		"abr": "smallcommonchest",
+		"price": 133,
+		"category": "Loot boxes",
+		"defname": "LootBoxSilverSmall"
+	},
+	{
+		"abr": "smallgoldenchest",
+		"price": 500,
+		"category": "Loot boxes",
+		"defname": "LootBoxGoldSmall"
+	},
+	{
+		"abr": "thundergun",
+		"price": 2900,
+		"category": "Security",
+		"defname": "Turret_ThunderGun_AA"
+	},
+	{
+		"abr": "treasurechest",
+		"price": 200,
+		"category": "Loot boxes",
+		"defname": "LootBoxTreasure"
+	}
 	],
-	"total": 2154
+	"total": 2193
 }
